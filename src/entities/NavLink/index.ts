@@ -1,1 +1,1 @@
-export { NavLink } from './UI/NavLink';
+export { NavbarLink } from './UI/NavLink';

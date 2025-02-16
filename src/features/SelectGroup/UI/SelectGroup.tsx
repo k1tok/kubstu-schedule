@@ -59,7 +59,7 @@ export const SelectGroup = () => {
 					</select>
 				</div>
 			</div>
-			<button className="border-2 border-black bg-neutral-600 p-1 cursor-pointer">
+			<button className="border-2 border-black bg-neutral-600 p-1 cursor-pointer mt-10">
 				Перейти на страницу курса
 			</button>
 		</div>
