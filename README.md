@@ -15,7 +15,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/username/kubstu-schedule.git
+git clone https://github.com/k1tok/kubstu-schedule.git
 ```
 
 2. Перейдите в директорию проекта:

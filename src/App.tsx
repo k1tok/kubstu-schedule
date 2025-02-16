@@ -1,11 +1,13 @@
 import './App.css';
+import { MainContainer } from './containers/MainContainer';
+import { SelectGroup } from './features/SelectGroup';
 
 function App() {
 	return (
 		<>
-			<div>
-				<h1 className="">Hello world!</h1>
-			</div>
+			<MainContainer>
+				<SelectGroup />
+			</MainContainer>
 		</>
 	);
 }
